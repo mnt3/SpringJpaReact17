@@ -1,0 +1,6 @@
+lt\akademija\jpaexam\GradedSuite.class
+lt\akademija\jpaexam\ExerciseTest.class
+lt\akademija\jpaexam\grader\Grade.class
+lt\akademija\jpaexam\grader\Grader.class
+lt\akademija\jpaexam\grader\Grader$GradedBody.class
+lt\akademija\jpaexam\ExerciseTest$Entities.class

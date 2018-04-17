@@ -1,0 +1,9 @@
+lt\akademija\jpaexam\core\UniqueEntity.class
+lt\akademija\jpaexam\core\UpdatableEntity.class
+lt\akademija\jpaexam\core\GenericRepository.class
+lt\akademija\jpaexam\core\UniqueEntityWithAssociation.class
+lt\akademija\jpaexam\TestData.class
+lt\akademija\jpaexam\model\Preke.class
+lt\akademija\jpaexam\model\PrekiuKrepselis.class
+lt\akademija\jpaexam\core\EntityWithAssociation.class
+lt\akademija\jpaexam\core\JpaExamApplication.class

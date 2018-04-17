@@ -1,0 +1,16 @@
+127.0.0.1 - - [17/Apr/2018:09:46:06 +0300] "POST /spring-exam/webapi/messenger/contacts HTTP/1.1" 201 18 http-bio-9092-exec-1 250
+127.0.0.1 - - [17/Apr/2018:09:46:06 +0300] "GET /spring-exam/webapi/messenger/contacts HTTP/1.1" 200 91 http-bio-9092-exec-2 16
+127.0.0.1 - - [17/Apr/2018:09:46:06 +0300] "POST /spring-exam/webapi/messenger/contacts HTTP/1.1" 201 18 http-bio-9092-exec-4 7
+127.0.0.1 - - [17/Apr/2018:09:46:06 +0300] "POST /spring-exam/webapi/messenger/messages/2 HTTP/1.1" 201 18 http-bio-9092-exec-5 13
+127.0.0.1 - - [17/Apr/2018:09:46:06 +0300] "GET /spring-exam/webapi/messenger/messages/2 HTTP/1.1" 200 59 http-bio-9092-exec-6 7
+127.0.0.1 - - [17/Apr/2018:09:46:06 +0300] "POST /spring-exam/webapi/messenger/contacts HTTP/1.1" 201 18 http-bio-9092-exec-8 9
+127.0.0.1 - - [17/Apr/2018:09:46:06 +0300] "PUT /spring-exam/webapi/messenger/contacts/4 HTTP/1.1" 200 5 http-bio-9092-exec-10 6
+127.0.0.1 - - [17/Apr/2018:09:46:06 +0300] "GET /spring-exam/webapi/messenger/contacts/4 HTTP/1.1" 200 89 http-bio-9092-exec-10 5
+127.0.0.1 - - [17/Apr/2018:09:46:06 +0300] "POST /spring-exam/webapi/messenger/contacts HTTP/1.1" 201 18 http-bio-9092-exec-10 3
+127.0.0.1 - - [17/Apr/2018:09:46:06 +0300] "GET /spring-exam/webapi/messenger/contacts/5 HTTP/1.1" 200 87 http-bio-9092-exec-10 3
+127.0.0.1 - - [17/Apr/2018:09:46:06 +0300] "POST /spring-exam/webapi/messenger/contacts HTTP/1.1" 201 18 http-bio-9092-exec-10 2
+127.0.0.1 - - [17/Apr/2018:09:46:06 +0300] "POST /spring-exam/webapi/messenger/messages/6 HTTP/1.1" 201 18 http-bio-9092-exec-10 5
+127.0.0.1 - - [17/Apr/2018:09:46:06 +0300] "POST /spring-exam/webapi/messenger/contacts HTTP/1.1" 201 18 http-bio-9092-exec-10 10
+127.0.0.1 - - [17/Apr/2018:09:46:06 +0300] "GET /spring-exam/webapi/messenger/contacts/8 HTTP/1.1" 200 103 http-bio-9092-exec-10 2
+127.0.0.1 - - [17/Apr/2018:09:46:06 +0300] "POST /spring-exam/webapi/messenger/contacts HTTP/1.1" 201 18 http-bio-9092-exec-10 2
+127.0.0.1 - - [17/Apr/2018:09:46:06 +0300] "DELETE /spring-exam/webapi/messenger/contacts/9 HTTP/1.1" 200 5 http-bio-9092-exec-10 2

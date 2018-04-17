@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: lt.akademija.jpaexam.GradedSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 3, Skipped: 0, Time elapsed: 6.926 sec <<< FAILURE! - in lt.akademija.jpaexam.GradedSuite
+gradeDelete(lt.akademija.jpaexam.ExerciseTest)  Time elapsed: 0.982 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at lt.akademija.jpaexam.ExerciseTest.lambda$gradeDelete$3(ExerciseTest.java:89)
+
+gradeUpdate(lt.akademija.jpaexam.ExerciseTest)  Time elapsed: 0.711 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at lt.akademija.jpaexam.ExerciseTest.lambda$gradeUpdate$2(ExerciseTest.java:66)
+
+gradeAssocSave(lt.akademija.jpaexam.ExerciseTest)  Time elapsed: 0.708 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at lt.akademija.jpaexam.ExerciseTest.lambda$gradeAssocSave$1(ExerciseTest.java:53)
+
