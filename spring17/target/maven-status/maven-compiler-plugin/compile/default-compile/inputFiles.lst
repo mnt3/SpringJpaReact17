@@ -1,0 +1,12 @@
+C:\Users\JP17-2\IdeaProjects\SpringJpaReact17\spring17\src\main\java\lt\itakademija\Application.java
+C:\Users\JP17-2\IdeaProjects\SpringJpaReact17\spring17\src\main\java\lt\itakademija\controller\MessengerServiceController.java
+C:\Users\JP17-2\IdeaProjects\SpringJpaReact17\spring17\src\main\java\lt\itakademija\model\command\UpdateContact.java
+C:\Users\JP17-2\IdeaProjects\SpringJpaReact17\spring17\src\main\java\lt\itakademija\model\command\CreateContact.java
+C:\Users\JP17-2\IdeaProjects\SpringJpaReact17\spring17\src\main\java\lt\itakademija\repository\SequenceGenerator.java
+C:\Users\JP17-2\IdeaProjects\SpringJpaReact17\spring17\src\main\java\lt\itakademija\repository\SequenceGeneratorImpl.java
+C:\Users\JP17-2\IdeaProjects\SpringJpaReact17\spring17\src\main\java\lt\itakademija\model\Id.java
+C:\Users\JP17-2\IdeaProjects\SpringJpaReact17\spring17\src\main\java\lt\itakademija\model\query\Message.java
+C:\Users\JP17-2\IdeaProjects\SpringJpaReact17\spring17\src\main\java\lt\itakademija\model\query\Contact.java
+C:\Users\JP17-2\IdeaProjects\SpringJpaReact17\spring17\src\main\java\lt\itakademija\model\command\CreateMessage.java
+C:\Users\JP17-2\IdeaProjects\SpringJpaReact17\spring17\src\main\java\lt\itakademija\repository\InMemoryMessengerRepository.java
+C:\Users\JP17-2\IdeaProjects\SpringJpaReact17\spring17\src\main\java\lt\itakademija\repository\MessengerRepository.java

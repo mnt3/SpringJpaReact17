@@ -1,0 +1,12 @@
+lt\itakademija\Application.class
+lt\itakademija\model\command\UpdateContact.class
+lt\itakademija\model\query\Message.class
+lt\itakademija\repository\SequenceGenerator.class
+lt\itakademija\model\command\CreateMessage.class
+lt\itakademija\controller\MessengerServiceController.class
+lt\itakademija\model\Id.class
+lt\itakademija\model\query\Contact.class
+lt\itakademija\repository\SequenceGeneratorImpl.class
+lt\itakademija\model\command\CreateContact.class
+lt\itakademija\repository\InMemoryMessengerRepository.class
+lt\itakademija\repository\MessengerRepository.class
